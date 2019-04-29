@@ -1,1 +1,8 @@
 121
+git add .
+
+git commit -m "¹æÕÂ"
+
+git pull origin master
+
+git push -u origin master
